@@ -35,19 +35,3 @@ yarn
 composer run-script post-create-project-cmd
 yarn prod
 ```
-
-## Development
-
-* To setup the admin user
-
-```sh
-php artisan db:seed --class=DatabaseProductionSeeder
-```
-
-* To generate the documentation
-
-```sh
-php artisan api:generate
-```
-
-* To view the documentation unput in your web browser URL: [http://server:port/docs/](http://localhost/docs/)
