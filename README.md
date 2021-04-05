@@ -7,11 +7,8 @@ Sistema de administración y gestión de préstamos.
 
 **Manuales de Instalación**
 
-[TOCM]
-
 [TOC]
 
 ## [ Instalación de ubuntu](./INSTALL.md)
 ## [ Instalación de git](./INSTALL.md)
 ## [ Generar la llave SSH en github](./INSTALL.md)
-
