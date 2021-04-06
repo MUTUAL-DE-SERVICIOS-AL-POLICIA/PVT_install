@@ -58,3 +58,4 @@ yarn
 composer run-script post-create-project-cmd
 yarn prod
 ```
+![](./screenshot_install/Captura de pantalla de 2021-03-31 09-04-22.png){width='100px'}
