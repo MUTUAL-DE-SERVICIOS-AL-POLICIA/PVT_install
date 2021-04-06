@@ -1,12 +1,8 @@
 # PLATAFORMA VIRTUAL DE TRÁMITES
 
-## Requirements
+# Install
 
-
-
-## Install
-
-## Guia de instalacion de Ubuntu 
+# Guia de instalacion de Ubuntu 
 
 Requisitos minimos del sistema para Ubuntu 
 
