@@ -58,4 +58,4 @@ yarn
 composer run-script post-create-project-cmd
 yarn prod
 ```
-![](./screenshot_install/Captura de pantalla de 2021-03-31 09-04-22.png){width='100px'}
+![](https://github.com/W4LTER-CH4/PVT_install/blob/development/screenshot_install/Captura%20de%20pantalla%20de%202021-03-31%2009-04-22.png)
