@@ -1,4 +1,3 @@
-
 # PLATAFORMA VIRTUAL DE TRÁMITES
 
 ![](https://raw.githubusercontent.com/IvetteCh/PVT_install/main/screenshot_Install/1c8852654b45564ce024a199de3998fa.jpg)
