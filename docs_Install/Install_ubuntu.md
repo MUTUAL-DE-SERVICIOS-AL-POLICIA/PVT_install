@@ -1,11 +1,3 @@
-# PLATAFORMA VIRTUAL DE TRÁMITES
-
-## Requirements
-
-
-
-## Install
-
 ## Guia de instalacion de Ubuntu 
 
 Requisitos minimos del sistema para Ubuntu 
@@ -30,31 +22,3 @@ Requisitos minimos del sistema para Ubuntu
 - Paso 10: Configuramos nuetro Usuario y Contraseña 
 - Paso 11: Y empezara la instalacion 
 - Paso 12: Al finalizar nos pedira Reiniciar y aceptar 
-```
-
-* Clone the project
-
-```sh
-git clone https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA/PVT.git
-cd PVT
-git fetch --tags
-latestVersion=$(git describe --tags `git rev-list --tags --max-count=1`)
-git checkout $latestVersion
-```
-
-* Install dependencies
-
-```sh
-composer run-script post-root-package-install
-composer install
-yarn
-```
-
-* Edit `.env` file with database credentials and established manteinance modes
-
-* Generate keys and compile JS files
-
-```sh
-composer run-script post-create-project-cmd
-yarn prod
-```
