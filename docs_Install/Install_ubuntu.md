@@ -1,3 +1,4 @@
+
 ## Guia de instalacion de Ubuntu 
 
 Requisitos minimos del sistema para Ubuntu 
