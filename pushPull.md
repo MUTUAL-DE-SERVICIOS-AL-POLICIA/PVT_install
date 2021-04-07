@@ -1,35 +1,44 @@
-<HTML>
-    <HEAD>
-    <TITLE>COMO GENERAR PUSH Y PULL</TITLE>
-    </HEAD>
-    <BODY>
-    <!-- Contenido principal -->
-    <h1>GENERANDO PUSH</h1>
+# COMO GENERAR PUSH Y PULL
+  
+# _GENERANDO PUSH_
 
-<!-- Iniciar el git -->
-<p>git init</p>
+## Inicializar el git
+```sh
+git init
+ ```
+ 
+## agregar a git el archivo pushPull.md
+```sh 
+git add pushPull.html
+```
 
-<!-- agregar a git el archivo pushPull.html -->
-<p>git add pushPull.html</p>
+## Verificar que se añadio el archivo
+```sh
+git status
+``` 
 
-<!-- Verificar que se añadio el archivo -->
-<p>git status </p>
+## creando un destino con etiqueta
+```sh
+git commint -m "subiendo archivo "
+```
 
-<!-- creando un destino con etiqueta -->
-<p>git commint -m "subiendo archivo html"  </p>
-
-<!-- descargar al repositorio local de la rama "main"  -->
-<p>git push origin main</p>
+## descargar al repositorio local de la rama "main" 
+```sh
+git push origin main
+```
 
    
- <h2>DIRECCIONANDO A MUTUAL-DE-SERVICIOS-AL-POLICIA/PVT_install.git</h2>
+## DIRECCIONANDO A MUTUAL-DE-SERVICIOS-AL-POLICIA/PVT_install.git
+```sh
+git remote set-url main git@github.com:MUTUAL-DE-SERVICIOS-AL-POLICIA/PVT_install.git
+```
 
-<p>git remote set-url main git@github.com:MUTUAL-DE-SERVICIOS-AL-POLICIA/PVT_install.git</p>
-
-<!-- creando un destino con etiqueta -->
-<p>git commint -m "subiendo archivo html" </p>
-
-<!-- subiendo el archivo a la rama principal main-->
-<p>git pull origin main main" </p>
-</BODY>
-    </HTML>
+## GENERANDO EL GIT CON ETIQUETA
+```sh
+git commint -m "subiendo archivo"
+```
+# _GENERANDO EL PULL_
+## SUBIENDO EL ARCHIVO A LA RAMA PRINCIPAL MAIN
+```sh
+git pull origin main main
+``` 
