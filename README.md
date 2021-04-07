@@ -3,17 +3,10 @@
 ![](https://avatars.githubusercontent.com/u/42221638?s=200&v=4)
 
 Sistema de administración y gestión de préstamos.
-<<<<<<< HEAD
 
-## ADICIONES
+- [ Instalación de ubuntu](./docs_Install/Install_ubuntu.md)
+- [ Pasos para generar Push y Pull](./docs_Install/pushPull.md)
+- [ Generar la llave SSH en github](./docs_Install/generate_ssh.md)
+- [ Instalar docker ](./docs_Install/Install_Docker.md)
+- [ Despliegue de docker](./docs_Install/Despliegue_Docker.md)
 
-## COMPLEMENTOS
-
-
-**Manuales de Instalación**
-
-
-- [ Instalación de ubuntu](./INSTALL.md)
-- [ Instalación de git](./INSTALL.md)
-- [ Generar la llave SSH en github](./INSTALL.md)
-- [ Push y Pull](./README.md)

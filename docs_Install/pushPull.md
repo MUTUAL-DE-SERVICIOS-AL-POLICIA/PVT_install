@@ -6,8 +6,8 @@
 ```sh
 git init
  ```
- 
-## agregar a git el archivo pushPull.md
+ ![ ]()
+## Agregar a git el archivo pushPull.md
 ```sh 
 git add pushPull.md
 ```
@@ -17,12 +17,12 @@ git add pushPull.md
 git status
 ``` 
 
-## creando un destino con etiqueta
+## Creando un destino con etiqueta
 ```sh
 git commint -m "subiendo archivo "
 ```
 
-## descargar al repositorio local de la rama "main" 
+## Descargar al repositorio local de la rama "main" 
 ```sh
 git push origin main
 ```
@@ -38,7 +38,12 @@ git remote set-url main git@github.com:MUTUAL-DE-SERVICIOS-AL-POLICIA/PVT_instal
 git commint -m "subiendo archivo"
 ```
 # _GENERANDO EL PULL_
-## SUBIENDO EL ARCHIVO A LA RAMA PRINCIPAL MAIN
+## Subiendo el archivo a la rama principal main
 ```sh
 git pull origin main main
+``` 
+
+## Descargar en el repositorio local los cambios hecho por otras ramas
+```sh
+git pull main main
 ``` 
