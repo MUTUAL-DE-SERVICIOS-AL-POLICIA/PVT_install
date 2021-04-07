@@ -54,6 +54,8 @@ git pull origin main main
 
 ## Generar PULL REQUEST
 
+![](https://github.com/DiegooGutierrez123321/PVT_install/blob/main/Screenshot_Install/Captura%20de%20pantalla%20de%202021-04-07%2011-35-52.png?raw=true)
+
 ## Descargar en el repositorio local los cambios hecho por otras ramas
 ```sh
 git pull main main
