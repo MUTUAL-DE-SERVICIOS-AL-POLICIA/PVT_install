@@ -9,7 +9,7 @@ git init
  
 ## agregar a git el archivo pushPull.md
 ```sh 
-git add pushPull.html
+git add pushPull.md
 ```
 
 ## Verificar que se añadio el archivo
