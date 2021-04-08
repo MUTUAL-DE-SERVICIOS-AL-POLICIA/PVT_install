@@ -22,7 +22,7 @@ git status
 git commint -m "nuevas imagenes "
 ```
 ![](https://github.com/DiegooGutierrez123321/PVT_install/blob/main/Screenshot_Install/Captura%20de%20pantalla%20de%202021-04-07%2010-40-21.png?raw=true)
-## Descargar al repositorio local de la rama "main" 
+## Subiendo al repositorio local de la rama "main" 
 ```sh
 git push origin main
 ```
@@ -41,12 +41,12 @@ git remote -v
 ![](https://github.com/DiegooGutierrez123321/PVT_install/blob/main/Screenshot_Install/Captura%20de%20pantalla%20de%202021-04-07%2011-05-02.png?raw=true)
 
 # _GENERANDO EL PULL_
-## Subiendo el archivo a la rama main del repositorio
+## Descargando el archivo a la rama main del repositorio
 ```sh
 git pull origin main
 ``` 
 ![](https://github.com/DiegooGutierrez123321/PVT_install/blob/main/Screenshot_Install/Captura%20de%20pantalla%20de%202021-04-07%2010-56-41.png?raw=true)
-## Subiendo el archivo a la rama main principal
+## Descargando el archivo a la rama main principal
 ```sh
 git pull origin main main
 ``` 
