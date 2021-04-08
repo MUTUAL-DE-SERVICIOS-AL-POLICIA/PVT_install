@@ -4,14 +4,13 @@
 
 Sistema de administración y gestión de préstamos.
 
+## Manuales de Instalación y Pasos a seguir
 
-## Manuales de Instalación
+1. [ Instalación de ubuntu](./docs_Install/Install_ubuntu.md)
+2. [ Pasos para instalar git](./docs_Install/Install_git.md)
+3. [ Generar la llave SSH en github](./docs_Install/generate_ssh.md)
+4. [ Pasos para generar Push y Pull](./docs_Install/pushPull.md)
+5. [ Instalar docker ](./docs_Install/Install_Docker.md)
+6. [ Despliegue de docker](./docs_Install/Despliegue_Docker.md)
 
-
-- [ Instalación de ubuntu](./docs_Install/Install_ubuntu.md)
-- [ Instalación de git](./docs_Install/Install_ubuntu.md)
-- [ Generar la llave SSH en github](./docs_Install/generate_ssh.md)
-- [ Instalar docker ](./docs_Install/Install_Docker.md)
-- [ Despliegue de docker](./docs_Install/Despliegue_Docker.md)
-
-- [Manual de usuario](./docs/MANUAL.md)
+7. [Manual de usuario](./docs/MANUAL.md)
