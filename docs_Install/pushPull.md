@@ -5,11 +5,9 @@
 ## Inicializar el git
 ```sh
 git init
- ```
-<<<<<<< HEAD
- 
-=======
->>>>>>> a4142a261be9962aefc6b81ce21ecb5f49bc20d5
+```
+
+
 ## Agregar a git el archivo pushPull.md
 ```sh 
 git add pushPull.md
