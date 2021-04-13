@@ -1,4 +1,4 @@
-# INSTALACION DE GIT EN UBUNTU
+# INSTALACION DE GIT EN UBUNTU  Y CREACIÓN DE UNA CUENTA EN GITHUB
 ## Instalando GIT como un entorno de desarrollo
 ```sh
 apt-get install git
