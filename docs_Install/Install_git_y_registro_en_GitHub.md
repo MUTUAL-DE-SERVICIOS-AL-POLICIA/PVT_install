@@ -9,7 +9,7 @@ sudo apt install git
  ```
 ## Verificamos si se instalo viendo la version
 ```sh
-$ git --version
+git --version
 ```
 Si todo esta correcto nos mostrara la version del git instalado en el equipo
 
