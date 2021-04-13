@@ -7,7 +7,7 @@ Sistema de administración y gestión de préstamos.
 ## Manuales de Instalación y Pasos a seguir
 
 1. [ Instalación de ubuntu](./docs_Install/Install_ubuntu.md)
-2. [ Pasos para instalar git](./docs_Install/Install_git.md)
+2. [ Pasos para instalar git y GitHub](./docs_Install/Install_git_y_registro_en_GitHub.md)
 3. [ Generar la llave SSH en github](./docs_Install/generate_ssh.md)
 4. [ Como clonar el proyecto desde github](./docs_Install/ClonarGithub.md)
 5. [ Instalar docker ](./docs_Install/Install_Docker.md)
