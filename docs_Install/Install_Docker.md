@@ -47,7 +47,11 @@ $ sudo apt-get update
 ```
 Poner el siguiente comando en su carpeta de usuario
 ```sh
-$ sudo sudo apt-get install docker-ce docker-ce-cli containerd.io
+$ sudo apt-get install docker-ce docker-ce-cli containerd.io
+```
+* ahora instalar Docker compose
+```sh
+$ sudo apt install docker-compose
 ```
 * Una vez instalado todo lo anterior verificar la versión de docker para ver si todo esta correcto en su instalación 
 Poner el siguiente comando en su carpeta de usuario
