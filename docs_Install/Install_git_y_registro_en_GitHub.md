@@ -19,4 +19,9 @@ Dirigirse a la pagina https://github.com
 
 ## Registrarce con un correo electrónico
 
+![](https://github.com/DiegooGutierrez123321/PVT_install/blob/main/Screenshot_Install/Captura%20de%20pantalla%20de%202021-04-13%2009-34-36.png?raw=true)
+
+## Crear una cuenta con los siguientes requisitos
+
+![](https://github.com/DiegooGutierrez123321/PVT_install/blob/main/Screenshot_Install/Captura%20de%20pantalla%20de%202021-04-13%2009-44-48.png?raw=true)
 
