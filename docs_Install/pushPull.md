@@ -2,12 +2,12 @@
   
 # _GENERANDO PUSH_
 
-## Inicializar el git
+## Inicializar el directorio de git
 ```sh
 git init
  ```
 
-## Agregar a git el archivo pushPull.md
+## Preparar un evento del archivo pushPull.md
 ```sh 
 git add pushPull.md
 ```
@@ -17,24 +17,25 @@ git add pushPull.md
 git status
 ``` 
 
-## Creando un destino con etiqueta
+## Crea el commit o evento con un nombre " nuevas imagenes"
 ```sh
 git commint -m "nuevas imagenes "
 ```
 
-## Descargar al repositorio local de la rama "main" 
+## Subir al repositorio local de la rama "main" 
 ```sh
 git push origin main
 ```
 
-   
+## ESTABLECIENDO UN ENLACE CON LA RAMA PRINCIPAL
+
 ## DIRECCIONANDO A MUTUAL-DE-SERVICIOS-AL-POLICIA/PVT_install.git
 ```sh
 git remote set-url main git@github.com:MUTUAL-DE-SERVICIOS-AL-POLICIA/PVT_install.git
 ```
 
 
-## ESPECIFICA LOS EXTREMOS REMOTOS QUE OPERARAN LOS COMANDOS DE SINCRONIZACIÓN
+## VERIFICANDO LOS ESTADOS DE LAS RAMAS
 ```sh
 git remote -v
 ```
@@ -42,12 +43,12 @@ git remote -v
 # _GENERANDO EL PULL_
 ## Subiendo el archivo a la rama main del repositorio
 ```sh
-git pull origin main
+git push origin main
 ``` 
 
 ## Subiendo el archivo a la rama main principal
 ```sh
-git pull origin main main
+git push origin main main
 ``` 
 
 
